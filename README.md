@@ -1,2 +1,5 @@
 # hello-world
-Just first steps in Git
+
+Hi, developers!
+
+That's my first steps in Git. I hope it'll be really intersting.
